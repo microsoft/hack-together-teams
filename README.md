@@ -1,33 +1,119 @@
-# Project
+# Hack Together: Teams apps
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+[Banner]
 
-As the maintainer of this project, please make a few updates:
+[Register Button]
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Introduction
 
-## Contributing
+**Hack Together: Teams apps** is a hackathon for beginners to get started building apps for Microsoft Teams. 
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+In this hackathon, you will kick-start learning how to build apps with Teams Toolkit and develop Teams apps based on the given Top Microsoft Teams App Scenarios, for a chance to win exciting prizes while meeting Microsoft Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors. 
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+The hackathon starts on **June 1st** and ends on **June 15th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+### Tips & Tricks [UPDATE LINKS]
 
-## Trademarks
+* Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](UPDATE)**. Microsoft experts will be there to help you.
+* There is a list of **[📃 Top Microsoft Graph Scenarios](UPDATE)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
+* Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](UPDATE)** below.
+* Looking for code templates to start with? Check out available **[✨ Templates](UPDATE)** in the repository.
+* Submit your project until March 15 to win the **[🏆 Prizes](UPDATE)**.
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+## Hack Together Roadmap 🗺️
+
+[Roadmap Doodle]
+
+Follow the steps below to successfully complete the hackathon.
+
+### #00 - Pre-requisites
+
+Register to Hack Together: [REGISTER BUTTON]
+
+Before you start hacking, you will need an environment setup. Review **[Environment Setup](UPDATE)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
+
+* [Prepare your Office 365 tenant](/setup.md#1---prepare-your-microsoft-365-tenant)
+* 
+*
+*
+
+Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](UPDATE)
+
+### #01 - Start hacking on June 1st
+
+Either team-up or join by yourself, join the hacking! Make sure to register to Hack Together and complete the pre-requisites before starting to build your project.
+
+### #02 - Join live Reactor sessions for learning and inspiration
+
+[ADD TO CALENDAR BUTTON]
+
+* **[June 1st - Join Live 📺](UPDATE):** Kick-off Hack Together!
+*
+*
+*
+
+### #03 - Submit your project until June 15th
+
+You may submit your project here when it's ready: **[🚀 Project Submission](UPDATE)**
+
+Check out this video for step by step project submission guidance:
+
+<https://user-images.githubusercontent.com/11164679/217246172-0aaea858-a4be-4fb8-abf2-beebfc1544ef.mp4>
+
+We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](UPDATE)
+
+> **TIP:** Add the `hack-together` and `microsoft-graph-sdk` tags to your project, to inspire others! [Check out other projects](UPDATE).
+>
+
+## Recommended Learning Materials
+
+* 
+*
+*
+*
+
+## Templates
+
+If you are looking for a code template to start your project, we have the following templates available for you in this repository:
+
+* 
+*
+*
+*
+
+## Prizes 🏅
+
+The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team):
+
+**🥇 First prize winner:**
+
+
+*
+*
+*
+
+**🥈 Second prize winner:**
+
+*
+*
+*
+
+**🥉 Third prize winner:**
+
+*
+*
+*
+
+**🏅 All hackathon participants who submit an app will receive a digital badge.**
+
+---
+**ℹ️ Hack Together winners will be selected as per the following judging criterias:**
+
+1.
+2.
+3.
+
+---
+[Footer meet the team image]
+
+[Register button]
