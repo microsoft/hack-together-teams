@@ -58,7 +58,7 @@ You may submit your project here when it's ready: **[🚀 Project Submission](UP
 
 Check out this video for step by step project submission guidance:
 
-<https://user-images.githubusercontent.com/11164679/217246172-0aaea858-a4be-4fb8-abf2-beebfc1544ef.mp4>
+[VIDEO]
 
 We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](UPDATE)
 
