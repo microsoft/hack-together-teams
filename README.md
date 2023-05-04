@@ -8,7 +8,7 @@
 
 **Hack Together: Teams apps** is a hackathon for beginners to get started building apps for Microsoft Teams. 
 
-In this hackathon, you will kick-start learning how to build apps with Teams Toolkit and develop Teams apps based on the given Top Microsoft Teams App Scenarios, for a chance to win exciting prizes while meeting Microsoft Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors. 
+In this hackathon, you will kick-start learning how to build Teams apps based on the given Top Microsoft Teams App Scenarios, for a chance to win exciting prizes while meeting Microsoft Product Group Leaders, Cloud Advocates, MVPs and the community.
 
 The hackathon starts on **June 1st** and ends on **June 15th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
 
