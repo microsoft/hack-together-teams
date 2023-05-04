@@ -41,7 +41,7 @@ Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let
 
 ### #01 - Start hacking on June 1st 
 
-Either team-up or join by yourself, join the hacking! Make sure to register to Hack Together and complete the pre-requisites before starting to build your project.
+Either team up (max 4 team members) or fly solo to join the hacking! Make sure to register for HackTogether and complete the pre-requisites before starting to build your project.
 
 ### #02 - Join live Reactor sessions for learning and inspiration [Kamal]
 
@@ -80,7 +80,7 @@ If you are looking for a code template to start your project, we have the follow
 *
 *
 
-## Judging and Prizes 🏅 [Kamal]
+## Judging and Prizes 🏅 [Daisy]
 
 Projects will be evaluated by a panel of judges, including Microsoft executives, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
 
