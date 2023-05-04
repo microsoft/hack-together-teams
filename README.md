@@ -6,7 +6,7 @@
 
 ## Introduction
 
-🛠️Build, hack, and transform at **HackTogether**!🛠️ It's time to roll up your sleeves and get started building apps for Microsoft Teams. 
+🛠️Build, hack, and transform at **HackTogether**!🛠️ It's time to roll up your sleeves and get started building apps for Microsoft Teams. 🔥
 
 HackTogether is your playground for coding and experimenting with Microsoft Teams. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build Teams apps based on the top Microsoft Teams app scenarios. The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
 
@@ -20,7 +20,7 @@ The hackathon starts on **June 1st** and ends on **June 15th**. It is recommende
 * Looking for code templates to start with? Check out available **[✨ Templates](UPDATE)** in the repository.
 * Submit your project until June 15 to win **[🏆 Prizes](UPDATE)**.
 
-## Hack Together Roadmap 🗺️
+## HackTogether Roadmap 🗺️
 
 [Roadmap Doodle] [Tomomi]
 
