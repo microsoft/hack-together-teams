@@ -39,11 +39,11 @@ Before you start hacking, you will need an environment setup. Review **[Environm
 
 Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](UPDATE) [Ayca]
 
-### #01 - Start hacking on June 1st [Kamal]
+### #01 - Start hacking on June 1st 
 
 Either team-up or join by yourself, join the hacking! Make sure to register to Hack Together and complete the pre-requisites before starting to build your project.
 
-### #02 - Join live Reactor sessions for learning and inspiration
+### #02 - Join live Reactor sessions for learning and inspiration [Kamal]
 
 [ADD TO CALENDAR BUTTON] [Ayca]
 
