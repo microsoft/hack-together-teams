@@ -1,10 +1,10 @@
 # Hack Together: Teams apps
 
-[Banner]
+[Banner] [Ayca]
 
-[Register Button]
+[Register Button] [Kamal]
 
-## Introduction
+## Introduction [Ayca]
 
 **Hack Together: Teams apps** is a hackathon for beginners to get started building apps for Microsoft Teams. 
 
@@ -12,7 +12,7 @@ In this hackathon, you will kick-start learning how to build Teams apps based on
 
 The hackathon starts on **June 1st** and ends on **June 15th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
 
-### Tips & Tricks [UPDATE LINKS]
+### Tips & Tricks [Ayca]
 
 * Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](UPDATE)**. Microsoft experts will be there to help you.
 * There is a list of **[📃 Top Microsoft Graph Scenarios](UPDATE)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
@@ -22,11 +22,11 @@ The hackathon starts on **June 1st** and ends on **June 15th**. It is recommende
 
 ## Hack Together Roadmap 🗺️
 
-[Roadmap Doodle]
+[Roadmap Doodle] [Tomomi]
 
 Follow the steps below to successfully complete the hackathon.
 
-### #00 - Pre-requisites
+### #00 - Pre-requisites [Kamal]
 
 Register to Hack Together: [REGISTER BUTTON]
 
@@ -37,42 +37,42 @@ Before you start hacking, you will need an environment setup. Review **[Environm
 *
 *
 
-Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](UPDATE)
+Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](UPDATE) [Ayca]
 
-### #01 - Start hacking on June 1st
+### #01 - Start hacking on June 1st [Kamal]
 
 Either team-up or join by yourself, join the hacking! Make sure to register to Hack Together and complete the pre-requisites before starting to build your project.
 
 ### #02 - Join live Reactor sessions for learning and inspiration
 
-[ADD TO CALENDAR BUTTON]
+[ADD TO CALENDAR BUTTON] [Ayca]
 
-* **[June 1st - Join Live 📺](UPDATE):** Kick-off Hack Together!
+* **[June 1st - Join Live 📺](UPDATE LINK):** Kick-off Hack Together!
 *
 *
 *
 
 ### #03 - Submit your project until June 15th
 
-You may submit your project here when it's ready: **[🚀 Project Submission](UPDATE)**
+You may submit your project here when it's ready: **[🚀 Project Submission](UPDATE)** [Ayca]
 
 Check out this video for step by step project submission guidance:
 
-[VIDEO]
+[VIDEO] [Kamal]
 
-We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](UPDATE)
+We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](UPDATE) [Ayca]
 
-> **TIP:** Add the `hack-together` and `microsoft-graph-sdk` tags to your project, to inspire others! [Check out other projects](UPDATE).
+> **TIP:** Add the `hack-together` and `microsoft-graph-sdk` tags to your project, to inspire others! [Check out other projects](UPDATE). [Ayca]
 >
 
-## Recommended Learning Materials
+## Recommended Learning Materials [Kamal]
 
 * 
 *
 *
 *
 
-## Templates
+## Templates [Ayca]
 
 If you are looking for a code template to start your project, we have the following templates available for you in this repository:
 
@@ -81,7 +81,7 @@ If you are looking for a code template to start your project, we have the follow
 *
 *
 
-## Prizes 🏅
+## Prizes 🏅 [Kamal]
 
 The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team):
 
@@ -107,13 +107,13 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
 
 ---
-**ℹ️ Hack Together winners will be selected as per the following judging criterias:**
+**ℹ️ Hack Together winners will be selected as per the following judging criterias:** [Ayca]
 
 1.
 2.
 3.
 
 ---
-[Footer meet the team image]
+[Footer meet the team image] [Ayca]
 
-[Register button]
+[Register button] [Kamal]
