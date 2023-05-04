@@ -78,9 +78,11 @@ If you are looking for a code template to start your project, we have the follow
 *
 *
 
-## Prizes 🏅 [Kamal]
+## Judging and Prizes 🏅 [Kamal]
 
-The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team):
+Projects will be evaluated by a panel of judges, including Microsoft executives, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
+
+The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team). Winning solutions and/or product feedback may also be considered for integration into the Microsoft Teams product roadmap. Winners will also have the opportunity to showcase their projects to experts and leaders on Microsoft 365 Community Calls and on our YouTube channels.
 
 **🥇 First prize winner:**
 
@@ -106,9 +108,10 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 ---
 **ℹ️ Hack Together winners will be selected as per the following judging criterias:** [Ayca]
 
-1.
-2.
-3.
+1. Innovation
+2. Impact
+3. Technical Usability/User Experience
+4. Alignment with hackathon category
 
 ---
 [Footer meet the team image] [Ayca]
