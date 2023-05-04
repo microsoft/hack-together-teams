@@ -4,7 +4,7 @@
 
 [Register Button] [Kamal]
 
-## Introduction [Ayca]
+## Introduction
 
 **Hack Together: Teams apps** is a hackathon for beginners to get started building apps for Microsoft Teams. 
 
@@ -14,7 +14,7 @@ The hackathon starts on **June 1st** and ends on **June 15th**. It is recommende
 
 ### Tips & Tricks [Ayca]
 
-* Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](UPDATE)**. Microsoft experts will be there to help you.
+* Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together-teams/discussions/3)**. Microsoft experts will be there to help you.
 * There is a list of **[📃 Top Microsoft Graph Scenarios](UPDATE)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
 * Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](UPDATE)** below.
 * Looking for code templates to start with? Check out available **[✨ Templates](UPDATE)** in the repository.
@@ -37,7 +37,7 @@ Before you start hacking, you will need an environment setup. Review **[Environm
 *
 *
 
-Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](UPDATE) [Ayca]
+Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](https://github.com/microsoft/hack-together-teams/discussions/1)
 
 ### #01 - Start hacking on June 1st 
 
@@ -54,13 +54,13 @@ Either team-up or join by yourself, join the hacking! Make sure to register to H
 
 ### #03 - Submit your project until June 15th
 
-You may submit your project here when it's ready: **[🚀 Project Submission](UPDATE)** [Ayca]
+You may submit your project here when it's ready: **[🚀 Project Submission](https://github.com/microsoft/hack-together-teams/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
 
 Check out this video for step by step project submission guidance:
 
 [VIDEO] [Kamal]
 
-We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](UPDATE) [Ayca]
+We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](https://github.com/microsoft/hack-together-teams/discussions/2)
 
 > **TIP:** Add the `hack-together` and `microsoft-graph-sdk` tags to your project, to inspire others! [Check out other projects](UPDATE). [Ayca]
 >
