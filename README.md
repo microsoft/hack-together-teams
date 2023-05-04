@@ -62,9 +62,6 @@ Check out this video for step by step project submission guidance:
 
 We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](https://github.com/microsoft/hack-together-teams/discussions/2)
 
-> **TIP:** Add the `hack-together` and `microsoft-graph-sdk` tags to your project, to inspire others! [Check out other projects](UPDATE). [Ayca]
->
-
 ## Recommended Learning Materials [Kamal]
 
 * 
