@@ -1,4 +1,4 @@
-# Hack Together: Teams apps
+# HackTogether: Teams
 
 [Banner] [Ayca]
 
@@ -6,9 +6,9 @@
 
 ## Introduction
 
-🛠️Build, hack, and transform at **Hack Together**!🛠️ It's time to roll up your sleeves and get started building apps for Microsoft Teams. 
+🛠️Build, hack, and transform at **HackTogether**!🛠️ It's time to roll up your sleeves and get started building apps for Microsoft Teams. 
 
-Hack Together is your playground for coding and experimenting with Microsoft Teams. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build Teams apps based on the top Microsoft Teams app scenarios. The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
+HackTogether is your playground for coding and experimenting with Microsoft Teams. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build Teams apps based on the top Microsoft Teams app scenarios. The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
 
 The hackathon starts on **June 1st** and ends on **June 15th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
 
@@ -18,7 +18,7 @@ The hackathon starts on **June 1st** and ends on **June 15th**. It is recommende
 * There is a list of **[📃 Top Microsoft Graph Scenarios](https://github.com/microsoft/hack-together-teams/blob/main/top-scenarios.md)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
 * Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](UPDATE)** below.
 * Looking for code templates to start with? Check out available **[✨ Templates](UPDATE)** in the repository.
-* Submit your project until March 15 to win the **[🏆 Prizes](UPDATE)**.
+* Submit your project until June 15 to win **[🏆 Prizes](UPDATE)**.
 
 ## Hack Together Roadmap 🗺️
 
@@ -54,7 +54,9 @@ Either team-up or join by yourself, join the hacking! Make sure to register to H
 
 ### #03 - Submit your project until June 15th
 
-You may submit your project here when it's ready: **[🚀 Project Submission](https://github.com/microsoft/hack-together-teams/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
+You may submit your project to one of the hackathon categories here when it's ready: **[🚀 Project Submission](https://github.com/microsoft/hack-together-teams/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
+
+[CATEGORIES] [Daisy]
 
 Check out this video for step by step project submission guidance:
 
