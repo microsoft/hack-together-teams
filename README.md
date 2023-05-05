@@ -56,7 +56,7 @@ Either team up (max 4 team members) or fly solo to join the hacking! Make sure t
 * **[June 12th - Join Live 📺](https://aka.ms/hack-together-teams/session5):** Ask the experts: Meet our Engineering Team and Ask Your Pressing Questions!
 * **[June 15th - Join Live 📺](https://aka.ms/hack-together-teams/session6):** Wrap Up and Take Action: Join Our Community for the Next Big Thing!
 
-### #03 - Submit your project until June 15th
+### #03 - Submit your project until June 15th 23:59 PST
 
 You may submit your project to one of the hackathon categories here when it's ready: **[🚀 Project Submission](https://github.com/microsoft/hack-together-teams/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
 
