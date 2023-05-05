@@ -16,6 +16,18 @@ body:
       description: Provide a short description of your project. What is it about? What type of app have you built? What is it doing? What problem is it solving?
     validations:
       required: true
+  - type: dropdown
+    id: Categories
+    attributes:
+      label: Which technologies did you use in your project? (Select multiple if needed)
+      multiple: true
+      options:
+        - Teams Toolkit
+        - SPFx
+        - Microsoft Graph
+        - Teams Conversational AI Library
+        - Cognitive Services
+        - Azure Functions
   - type: input
     id: url
     attributes:
