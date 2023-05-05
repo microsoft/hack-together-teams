@@ -16,16 +16,24 @@ body:
       description: Provide a short description of your project. What is it about? What type of app have you built? What is it doing? What problem is it solving?
     validations:
       required: true
-  - type: dropdown
-    id: Categories
+  - type: checkboxes
+    id: categories
     attributes:
       label: What type of app did you build in this hackathon?
-      multiple: false
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
-       - Enterprise focused: A Teams tab with SPFx
-       - AI focused: A Teams bot or message extension that integrates with Teams Conversational AI
-       - Multi-hub focused: A Teams app that works across Outlook and M365 app
-       - Productivity focused: A Teams app that connects with Microsoft 365 data through SSO and Microsoft Graph
+       - label: Enterprise focused = A Teams tab with SPFx
+       - label: AI focused = A Teams bot or message extension that integrates with Teams Conversational AI
+       - label: Multi-hub focused = A Teams app that works across Outlook and M365 app
+       - label: Productivity focused = A Teams app that connects with Microsoft 365 data through SSO and Microsoft Graph
+  type: checkboxes
+    id: language
+    attributes:
+      label: Which language did you use to build your app?
+      description: Select one only.
+      options:
+        - label: .NET
+        - label: JavaScript/TypeScript
   - type: input
     id: url
     attributes:
