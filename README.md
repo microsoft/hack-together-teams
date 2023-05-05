@@ -45,17 +45,16 @@ Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let
 
 Either team up (max 4 team members) or fly solo to join the hacking! Make sure to register for HackTogether and complete the pre-requisites before starting to build your project.
 
-### #02 - Join live Reactor sessions for learning and inspiration
-[Kamal]
+### #02 - Join live sessions for learning and inspiration
 
 [ADD TO CALENDAR BUTTON] [Ayca]
 
-* **[June 1st - Join Live 📺](https://aka.ms/hack-together-teams/session1):** Kick-off HackTogether!
-* **[June 5th - Join Live 📺](https://aka.ms/hack-together-teams/session2):** Kick-off HackTogether!
-* **[June 6th - Join Live 📺](https://aka.ms/hack-together-teams/session3):** Kick-off HackTogether!
-* **[June 7th - Join Live 📺](https://aka.ms/hack-together-teams/session4):** Kick-off HackTogether!
-* **[June 12th - Join Live 📺](https://aka.ms/hack-together-teams/session5):** Kick-off HackTogether!
-* **[June 15th - Join Live 📺](https://aka.ms/hack-together-teams/session6):** Kick-off HackTogether!
+* **[June 1st - Join Live 📺](https://aka.ms/hack-together-teams/session1):** Ready, Set, Hack: Empower the developer in you with Microsoft Teams App Development!
+* **[June 5th - Join Live 📺](https://aka.ms/hack-together-teams/session2):** Intro to Teams Tabs and building them with SharePoint Framework: Maximize Microsoft 365 Investments
+* **[June 6th - Join Live 📺](https://aka.ms/hack-together-teams/session3):** Intro to Teams Bots: Integrating AI into Your Bot Logic
+* **[June 7th - Join Live 📺](https://aka.ms/hack-together-teams/session4):** Boost User Engagement Beyond Teams with Message Extensions and make your app intelligent using Microsoft Graph.
+* **[June 12th - Join Live 📺](https://aka.ms/hack-together-teams/session5):** Ask the experts: Meet our Engineering Team and Ask Your Pressing Questions!
+* **[June 15th - Join Live 📺](https://aka.ms/hack-together-teams/session6):** Wrap Up and Take Action: Join Our Community for the Next Big Thing!
 
 ### #03 - Submit your project until June 15th
 
