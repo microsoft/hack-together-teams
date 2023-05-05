@@ -70,8 +70,8 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 ## Recommended Learning Materials 📚
 [Kamal]
 
+* [Learn Path - Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/training/paths/m365-teams-toolkit-vsc/)
 * 
-*
 *
 *
 
