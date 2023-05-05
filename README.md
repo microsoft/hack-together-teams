@@ -18,8 +18,8 @@ The hackathon starts on **June 1st** and ends on **June 15th**. It is recommende
 * Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together-teams/discussions/3)**. Microsoft experts will be there to help you.
 * There is a list of **[📃 Top Microsoft Teams App Scenarios](https://github.com/microsoft/hack-together-teams/blob/main/top-scenarios.md)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
 * Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](UPDATE)** below.
-* Looking for code templates to start with? Check out available **[✨ Templates](UPDATE)** in the repository.
-* Submit your project until June 15 to win **[🏆 Prizes](UPDATE)**.
+* Looking for code templates to start with? Check out available **[🪡 Templates](UPDATE)** in the repository.
+* Submit your project until June 15 to win **[🏆 Judging and Prizes](UPDATE)**.
 
 ## HackTogether Roadmap 🗺️
 
@@ -67,7 +67,7 @@ Check out this video for step by step project submission guidance:
 
 We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](https://github.com/microsoft/hack-together-teams/discussions/2)
 
-## Recommended Learning Materials
+## Recommended Learning Materials 📚
 [Kamal]
 
 * 
@@ -75,7 +75,7 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 *
 *
 
-## Templates
+## Templates 🪡
 [Ayca]
 
 If you are looking for a code template to start your project, we have the following templates available for you in this repository:
@@ -85,7 +85,7 @@ If you are looking for a code template to start your project, we have the follow
 *
 *
 
-## Judging and Prizes 🏅
+## Judging and Prizes 🏆
 [Daisy]
 
 Projects will be evaluated by a panel of judges, including Microsoft executives, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
