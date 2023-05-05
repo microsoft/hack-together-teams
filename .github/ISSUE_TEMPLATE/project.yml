@@ -19,21 +19,25 @@ body:
   - type: dropdown
     id: Categories
     attributes:
-      label: Which technologies did you use in your project? (Select multiple if needed)
-      multiple: true
+      label: What type of app did you build in this hackathon?
+      multiple: false
       options:
-        - Teams Toolkit for Visual Studio Code
-        - Teams Toolkit for Visual Studio
-        - Teams Conversational AI Library
-        - SPFx
-        - Microsoft Graph
-        - Cognitive Services
-        - Azure Functions
+       - Enterprise focused: A Teams tab with SPFx
+       - AI focused: A Teams bot or message extension that integrates with Teams Conversational AI
+       - Multi-hub focused: A Teams app that works across Outlook and M365 app
+       - Productivity focused: A Teams app that connects with Microsoft 365 data through SSO and Microsoft Graph
   - type: input
     id: url
     attributes:
       label: Repo URL
       description: URL of the GitHub repo with your project
+    validations:
+      required: true
+  - type: input
+    id: video
+    attributes:
+      label: Project video
+      description: A short demo video of your project
     validations:
       required: true
   - type: input
