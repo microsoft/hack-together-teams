@@ -13,7 +13,6 @@ HackTogether is your playground for coding and experimenting with Microsoft Team
 The hackathon starts on **June 1st** and ends on **June 15th**. It is recommended for participants to follow the HackTogether Roadmap for a successful hackathon.
 
 ### Tips & Tricks
-[Ayca]
 
 * Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together-teams/discussions/new?category=q-a)**. Microsoft experts will be there to help you.
 * There is a list of **[📃 Top Microsoft Teams App Scenarios](https://github.com/microsoft/hack-together-teams/blob/main/top-scenarios.md)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
