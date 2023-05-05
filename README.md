@@ -1,6 +1,6 @@
 # HackTogether: The Microsoft Teams Global Hack
 
-[Banner] [Ayca]
+[Banner] [Ayca] [Daisy]
 
 [Register Button] [Kamal]
 
@@ -12,7 +12,8 @@ HackTogether is your playground for coding and experimenting with Microsoft Team
 
 The hackathon starts on **June 1st** and ends on **June 15th**. It is recommended for participants to follow the HackTogether Roadmap for a successful hackathon.
 
-### Tips & Tricks [Ayca]
+### Tips & Tricks
+[Ayca]
 
 * Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together-teams/discussions/3)**. Microsoft experts will be there to help you.
 * There is a list of **[📃 Top Microsoft Teams App Scenarios](https://github.com/microsoft/hack-together-teams/blob/main/top-scenarios.md)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
@@ -26,7 +27,8 @@ The hackathon starts on **June 1st** and ends on **June 15th**. It is recommende
 
 Follow the steps below to successfully complete the hackathon.
 
-### #00 - Pre-requisites [Kamal]
+### #00 - Pre-requisites
+[Kamal]
 
 Register to Hack Together: [REGISTER BUTTON]
 
@@ -43,7 +45,8 @@ Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let
 
 Either team up (max 4 team members) or fly solo to join the hacking! Make sure to register for HackTogether and complete the pre-requisites before starting to build your project.
 
-### #02 - Join live Reactor sessions for learning and inspiration [Kamal]
+### #02 - Join live Reactor sessions for learning and inspiration
+[Kamal]
 
 [ADD TO CALENDAR BUTTON] [Ayca]
 
@@ -64,14 +67,16 @@ Check out this video for step by step project submission guidance:
 
 We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](https://github.com/microsoft/hack-together-teams/discussions/2)
 
-## Recommended Learning Materials [Kamal]
+## Recommended Learning Materials
+[Kamal]
 
 * 
 *
 *
 *
 
-## Templates [Ayca]
+## Templates
+[Ayca]
 
 If you are looking for a code template to start your project, we have the following templates available for you in this repository:
 
@@ -80,7 +85,8 @@ If you are looking for a code template to start your project, we have the follow
 *
 *
 
-## Judging and Prizes 🏅 [Daisy]
+## Judging and Prizes 🏅
+[Daisy]
 
 Projects will be evaluated by a panel of judges, including Microsoft executives, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
 
