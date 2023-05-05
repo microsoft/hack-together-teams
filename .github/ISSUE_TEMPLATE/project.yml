@@ -22,7 +22,7 @@ body:
       label: What type of app did you build in this hackathon?
       description: Select one only.
       options:
-       - label: **Enterprise focused** (A Teams tab with SPFx)
+       - label: Enterprise focused (A Teams tab with SPFx)
        - label: **AI focused:** A Teams bot or message extension that integrates with Teams Conversational AI
        - label: **Multi-hub focused:** A Teams app that works across Outlook and M365 app
        - label: **Productivity focused:** A Teams app that connects with Microsoft 365 data through SSO and Microsoft Graph
