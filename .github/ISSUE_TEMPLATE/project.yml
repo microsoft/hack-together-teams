@@ -24,9 +24,9 @@ body:
       options:
         - Teams Toolkit for Visual Studio Code
         - Teams Toolkit for Visual Studio
+        - Teams Conversational AI Library
         - SPFx
         - Microsoft Graph
-        - Teams Conversational AI Library
         - Cognitive Services
         - Azure Functions
   - type: input
