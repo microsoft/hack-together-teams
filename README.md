@@ -50,12 +50,12 @@ Either team up (max 4 team members) or fly solo to join the hacking! Make sure t
 
 [ADD TO CALENDAR BUTTON] [Ayca]
 
-* **[ June 1st - Join Live 📺](UPDATE LINK):** Kick-off HackTogether!
-* **[ June 5th - Join Live 📺](UPDATE LINK):** Kick-off HackTogether!
-* **[ June 6th - Join Live 📺](UPDATE LINK):** Kick-off HackTogether!
-* **[ June 7th - Join Live 📺](UPDATE LINK):** Kick-off HackTogether!
-* **[June 12th - Join Live 📺](UPDATE LINK):** Kick-off HackTogether!
-* **[June 15th - Join Live 📺](UPDATE LINK):** Kick-off HackTogether!
+* **[ June 1st - Join Live 📺](https://aka.ms/hack-together-teams/session1):** Kick-off HackTogether!
+* **[ June 5th - Join Live 📺](https://aka.ms/hack-together-teams/session2):** Kick-off HackTogether!
+* **[ June 6th - Join Live 📺](https://aka.ms/hack-together-teams/session3):** Kick-off HackTogether!
+* **[ June 7th - Join Live 📺](https://aka.ms/hack-together-teams/session4):** Kick-off HackTogether!
+* **[June 12th - Join Live 📺](https://aka.ms/hack-together-teams/session5):** Kick-off HackTogether!
+* **[June 15th - Join Live 📺](https://aka.ms/hack-together-teams/session6):** Kick-off HackTogether!
 
 ### #03 - Submit your project until June 15th
 
