@@ -2,7 +2,9 @@
 
 [Banner] [Ayca] [Daisy]
 
-[Register Button] [Kamal]
+[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=for-the-badge&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
+
+[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=social&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
 
 ## Introduction
 
@@ -124,4 +126,6 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 ---
 [Footer meet the team image] [Ayca]
 
-[Register button] [Kamal]
+[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=for-the-badge&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
+
+[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=social&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
