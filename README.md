@@ -31,7 +31,11 @@ Follow the steps below to successfully complete the hackathon.
 ### #00 - Pre-requisites
 [Kamal]
 
-Register to Hack Together: [REGISTER BUTTON]
+Register to Hack Together: 
+
+[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=for-the-badge&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
+
+[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=social&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
 
 Before you start hacking, you will need an environment setup. Review **[Environment Setup](https://github.com/microsoft/hack-together/blob/main/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
@@ -70,12 +74,13 @@ Check out this video for step by step project submission guidance:
 We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](https://github.com/microsoft/hack-together-teams/discussions/2)
 
 ## Recommended Learning Materials 📚
-[Kamal]
 
 * [Learn Path - Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/training/paths/m365-teams-toolkit-vsc/)
-* 
-*
-*
+* [Introduction to building apps for Microsoft Teams](https://learn.microsoft.com/en-us/training/modules/intro-microsoft-teams-apps/)
+* [Getting Started for building apps for Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-overview)
+* [Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
+* [Explore about Bots for Teams](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/what-are-bots)
+* [Teams Toolkit Overview](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?pivots=visual-studio-code)
 
 ## Templates 🪡
 [Ayca]
