@@ -29,7 +29,7 @@ The hackathon starts on **June 1st** and ends on **June 15th**. It is recommende
 Follow the steps below to successfully complete the hackathon.
 
 ### #00 - Pre-requisites
-[Kamal]
+
 
 Register to Hack Together: 
 
@@ -40,9 +40,10 @@ Register to Hack Together:
 Before you start hacking, you will need an environment setup. Review **[Environment Setup](https://github.com/microsoft/hack-together/blob/main/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
 * [Prepare your Office 365 tenant](/setup.md#1---prepare-your-microsoft-365-tenant)
-* 
-*
-*
+* [Visual Studio Code installed](https://code.visualstudio.com/download)
+* [NodeJS v16 installed](https://nodejs.org/download/release/v16.19.0/)
+* [Basic understanding of Microsoft Teams App](https://learn.microsoft.com/en-us/training/modules/intro-microsoft-teams-apps/)
+* Microsoft Edge, or Google Chrome web browsers installed
 
 Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](https://github.com/microsoft/hack-together-teams/discussions/1)
 
