@@ -1,7 +1,5 @@
 # HackTogether: The Microsoft Teams Global Hack
 
-[Banner] [Ayca] [Daisy]
-
 [![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=for-the-badge&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
 
 [![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=social&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
@@ -24,12 +22,9 @@ The hackathon starts on **June 1st** and ends on **June 15th**. It is recommende
 
 ## HackTogether Roadmap 🗺️
 
-[Roadmap Doodle] [Tomomi]
-
 Follow the steps below to successfully complete the hackathon.
 
 ### #00 - Pre-requisites
-
 
 Register to Hack Together: 
 
@@ -88,33 +83,26 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 
 If you are looking for a code template to start your project, we have the following templates available for you in this repository:
 
-* 
-*
-*
-*
+* [Microsoft - Teams Framework (TeamsFx) Sample Gallery](https://github.com/officedev/teamsfx-samples)
+* [Microsoft 365 & Power Platform Community - Teams Development Samples](https://pnp.github.io/teams-dev-samples/)
 
 ## Judging and Prizes 🏆
-[Daisy]
 
 Projects will be evaluated by a panel of judges, including Microsoft executives, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
 
 The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team). Winning solutions and/or product feedback may also be considered for integration into the Microsoft Teams product roadmap. Winners will also have the opportunity to showcase their projects to experts and leaders on Microsoft 365 Community Calls and on our YouTube channels.
 
 **🥇 First prize winner:**
-
-
 *
 *
 *
 
 **🥈 Second prize winner:**
-
 *
 *
 *
 
 **🥉 Third prize winner:**
-
 *
 *
 *
@@ -122,7 +110,7 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
 
 ---
-**ℹ️ Hack Together winners will be selected as per the following judging criterias:** [Ayca]
+**ℹ️ Hack Together winners will be selected as per the following judging criterias:**
 
 1. Innovation
 2. Impact
