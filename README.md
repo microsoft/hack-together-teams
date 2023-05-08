@@ -37,7 +37,7 @@ Register to Hack Together:
 
 [![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=social&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
 
-Before you start hacking, you will need an environment setup. Review **[Environment Setup](https://github.com/microsoft/hack-together/blob/main/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
+Before you start hacking, you will need an environment setup. Review **[Environment Setup](https://github.com/microsoft/hack-together-teams/blob/main/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
 * [Prepare your Office 365 tenant](/setup.md#1---prepare-your-microsoft-365-tenant)
 * [Visual Studio Code installed](https://code.visualstudio.com/download)
