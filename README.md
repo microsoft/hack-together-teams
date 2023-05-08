@@ -1,8 +1,6 @@
 # HackTogether: The Microsoft Teams Global Hack
 
-[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=for-the-badge&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
-
-[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=social&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
+[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=for-the-badge&logoColor=white&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
 
 ## Introduction
 
@@ -28,9 +26,7 @@ Follow the steps below to successfully complete the hackathon.
 
 Register to Hack Together: 
 
-[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=for-the-badge&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
-
-[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=social&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
+[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=for-the-badge&logoColor=white&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
 
 Before you start hacking, you will need an environment setup. Review **[Environment Setup](https://github.com/microsoft/hack-together-teams/blob/main/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
@@ -120,6 +116,4 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 ---
 [Footer meet the team image] [Ayca]
 
-[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=for-the-badge&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
-
-[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=social&logoColor=brightgreen&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
+[![Register](https://img.shields.io/badge/HackTogether-Register-00ED00?style=for-the-badge&logoColor=white&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
