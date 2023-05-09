@@ -17,35 +17,40 @@ If you are a Microsoft 365 subscriber, you can develop apps with Microsoft Graph
 * Education, Education Plus, and Education E5
 * Microsoft Teams will also be available to customers who subscribed to E4 prior to its retirement.
 
+## 2 - Install Visual Studio or Visual Studio Code (Recommended)
+Installing Visual Studio or Visual Studio Code for building your app is recommended for this hack, however it's not mandatory. You can also use any code editor or IDE that supports client-side development to build your application.
 
-**You can use any code editor or IDE that supports client-side development to build your Application**
+* Install [Visual Studio](https://visualstudio.microsoft.com/downloads/) to work with .NET build environments.
+* Install [Visual Studio Code](https://code.visualstudio.com/download) to work with JavaScript, TypeScript, or SharePoint Framework (SPFx) build environments.
 
-* [Visual Studio Code](https://code.visualstudio.com/download) JavaScript, TypeScript, or SharePoint Framework (SPFx) build environments.
-* [Visual Studio](https://visualstudio.microsoft.com/downloads/) 
+## 3 - Install Teams Toolkit for Visual Studio or Visual Studio Code (Recommended) 
+The Teams Toolkit is an extension for Visual Studio Code and Visual Studio 2022 that helps developers create and deploy Microsoft Teams apps with integrated identity, cloud storage, and other services across Microsoft 365 and Azure. Installing Teams Toolkit for Visual Studio or Visual Studio Code to build a Teams app is recommended for this hack, however it's not mandatory. You can also use any other tools to build your Teams app.
 
-but you can use any editor of your choice.
+## Teams Toolkit for Visual Studio
+You can use Teams Toolkit for Visual Studio to build your app with .NET.
 
-**Install Node.js**
+* Install [Teams Toolkit for Visual Studio](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/install-teams-toolkit?tabs=vscode&pivots=visual-studio) 
 
-Back-end JavaScript runtime environment.Install the most recent LTS version of Node.js v16 or Higher
-* [Node Js](https://nodejs.org/download/release/v16.19.0/)
+## Teams Toolkit for Visual Studio Code
+You can use Teams Toolkit for Visual Studio Code to build your app with JavaScript, TypeScript, or SharePoint Framework (SPFx).
 
-You can check if you already have Node.js already installed, including installed version, by running the following command:
+* Install [Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/install-teams-toolkit?tabs=vscode&pivots=visual-studio-code)
+* Install [Node Js v16](https://nodejs.org/download/release/v16.19.0/) or higher
 
-``` node --version ```
+## 4 - Browser Installed
+Install a browser with developer tools such as Microsoft Edge or Google Chrome.
 
-**Browser Installed**
+## 5 - Setup your GitHub account
 
-A browser with developer tools, Microsoft Edge(Recommended), or Google Chrome web browsers installed
+GitHub offers personal accounts for individuals and organizations for teams of people working together.
 
-**Microsoft Teams**
+You can create a personal account, which serves as your identity on <https://github.com>, or an organization, which allows multiple personal accounts to collaborate across multiple projects.
 
-Microsoft Teams to collaborate with everyone you work with through apps for chat, meetings, call - all in one place.
+For more information, see [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account#about-new-accounts-on-githubcom).
 
-* [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+---
 
-**Developer Portal for Teams**
+## SharePoint Framework Environment Setup
+> This part is only for developers who want to work with SharePoint Framework during their hack.
 
-Web-based portal to configure, manage, and distribute your Teams app including to your organization or the Teams store.
-
-* [Developer Portal](https://dev.teams.microsoft.com/home)
+Follow the steps to complete your setup for SharePoint Framework: [Set up your SharePoint Framework development environment](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment)
