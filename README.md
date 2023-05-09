@@ -69,15 +69,22 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 ## Recommended Learning Materials 📚
 
 * [Learn Path - Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/training/paths/m365-teams-toolkit-vsc/)
-* [Introduction to building apps for Microsoft Teams](https://learn.microsoft.com/en-us/training/modules/intro-microsoft-teams-apps/)
-* [Getting Started for building apps for Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-overview)
-* [Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
-* [Teams Toolkit Overview](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?pivots=visual-studio-code)
+* [Learn Module - Introduction to building apps for Microsoft Teams](https://learn.microsoft.com/en-us/training/modules/intro-microsoft-teams-apps/)
+* [Documentation - Teams app that fits]([https://learn.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-overview](https://learn.microsoft.com/en-us/microsoftteams/platform/overview))
+* [Documentation - From ideas to Teams app](https://learn.microsoft.com/en-us/microsoftteams/platform/overview-story)
+* [Documentation - Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
 
-## Templates 🪡
-[Ayca]
-
+## Getting started templates 🪡
 If you are looking for a code template to start your project, we have the following templates available for you in this repository:
+
+* [Bot]()
+* [Tab]()
+* [Message Extension]()
+* [Bot with single sign on]()
+* [Tab with single sign on]()
+* [Message Extension with single sign on]()
+
+## Project Samples to get inspired ✨
 
 * [Microsoft - Teams Framework (TeamsFx) Sample Gallery](https://github.com/officedev/teamsfx-samples)
 * [Microsoft 365 & Power Platform Community - Teams Development Samples](https://pnp.github.io/teams-dev-samples/)
