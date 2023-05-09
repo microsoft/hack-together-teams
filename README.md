@@ -75,10 +75,10 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 * [Documentation - Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
 
 ## Getting started templates 🪡
-If you are looking for a code template to start your project, we have the following templates available for you in this repository for:
+If you are looking for a code template to start your project, we have the following templates available for you in this repository created using Teams Toolkit for Visual Studio(.NET) and Visual Studio Code(JavaScript/TypeScript).
 
-* [Visual Studio]()
-* [Visual Studio Code]()
+* [Visual Studio & .NET]()
+* [Visual Studio Code & JavaScript/TypeScript]()
 
 ## Project samples to get inspired ✨
 
