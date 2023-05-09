@@ -75,26 +75,10 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 * [Documentation - Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
 
 ## Getting started templates 🪡
-If you are looking for a code template to start your project, we have the following templates available for you in this repository:
+If you are looking for a code template to start your project, we have the following templates available for you in this repository for:
 
-**Bots**
-* [Basic Bot]()
-* [Notification Bot]()
-* [Command Bot]()
-* [Workflow Bot]()
-* [Bot with single sign on]()
-
-**Tabs**
-* [Basic Tab]()
-* [React Tab with Fluent UI]()
-* [Dashboard Tab]()
-* [Tab with SPFx]()
-* [Tab with single sign on]()
-
-**Message Extensions**
-* [Search based Message Extension]()
-* [Action based Message Extension]()
-* [Message Extension with single sign on]()
+* [Visual Studio]()
+* [Visual Studio Code]()
 
 ## Project samples to get inspired ✨
 
