@@ -47,12 +47,12 @@ Either team up (max 4 team members) or fly solo to join the hacking! Make sure t
 
 [![Calendar Invite](https://img.shields.io/badge/Calendar-Invite-4285F4?style=for-the-badge&logoColor=white&logo=googlecalendar)](https://aka.ms/hack-together-teams/session1)
 
-* **[June 1st - Join Live 📺](https://aka.ms/hack-together-teams/session1):** Ready, Set, Hack: Empower the developer in you with Microsoft Teams App Development!
-* **[June 5th - Join Live 📺](https://aka.ms/hack-together-teams/session2):** Intro to Teams Tabs and building them with SharePoint Framework: Maximize Microsoft 365 Investments
-* **[June 6th - Join Live 📺](https://aka.ms/hack-together-teams/session3):** Intro to Teams Bots: Integrating AI into Your Bot Logic
-* **[June 7th - Join Live 📺](https://aka.ms/hack-together-teams/session4):** Boost User Engagement Beyond Teams with Message Extensions and make your app intelligent using Microsoft Graph.
-* **[June 12th - Join Live 📺](https://aka.ms/hack-together-teams/session5):** Ask the experts: Meet our Engineering Team and Ask Your Pressing Questions!
-* **[June 15th - Join Live 📺](https://aka.ms/hack-together-teams/session6):** Wrap Up and Take Action: Join Our Community for the Next Big Thing!
+* **[June 1st - Join Live 📺](https://aka.ms/hack-together-teams/session1):** Ready, Set, Hack: Empower the developer in you with Microsoft Teams app development!
+* **[June 5th - Join Live 📺](https://aka.ms/hack-together-teams/session2):** Intro to Teams tabs and building them with SharePoint Framework: Maximize Microsoft 365 investments
+* **[June 6th - Join Live 📺](https://aka.ms/hack-together-teams/session3):** Intro to Teams bots: Integrating AI into your bot logic
+* **[June 7th - Join Live 📺](https://aka.ms/hack-together-teams/session4):** Boost user engagement beyond Teams with Message Extensions and make your app intelligent using Microsoft Graph.
+* **[June 12th - Join Live 📺](https://aka.ms/hack-together-teams/session5):** Ask the experts: Meet our Engineering team and ask your pressing questions!
+* **[June 15th - Join Live 📺](https://aka.ms/hack-together-teams/session6):** Wrap up and take action: Join our community for the next Big Thing!
 
 ### #03 - Submit your project until June 15th 23:59 PM PST
 
