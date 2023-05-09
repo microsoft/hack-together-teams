@@ -37,7 +37,7 @@ You can use Teams Toolkit for Visual Studio Code to build your app with JavaScri
 * Install [Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/install-teams-toolkit?tabs=vscode&pivots=visual-studio-code)
 * Install [Node Js v16](https://nodejs.org/download/release/v16.19.0/) or higher
 
-## 4 - Browser Installed
+## 4 - Install the browser of your choice
 Install a browser with developer tools such as Microsoft Edge or Google Chrome.
 
 ## 5 - Setup your GitHub account
