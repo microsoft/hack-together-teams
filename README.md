@@ -77,11 +77,23 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 ## Getting started templates 🪡
 If you are looking for a code template to start your project, we have the following templates available for you in this repository:
 
-* [Bot]()
-* [Tab]()
-* [Message Extension]()
+**Bots**
+* [Basic Bot]()
+* [Notification Bot]()
+* [Command Bot]()
+* [Workflow Bot]()
 * [Bot with single sign on]()
+
+**Tabs**
+* [Basic Tab]()
+* [React Tab with Fluent UI]()
+* [Dashboard Tab]()
+* [Tab with SPFx]()
 * [Tab with single sign on]()
+
+**Message Extensions**
+* [Search based Message Extension]()
+* [Action based Message Extension]()
 * [Message Extension with single sign on]()
 
 ## Project samples to get inspired ✨
