@@ -84,7 +84,7 @@ If you are looking for a code template to start your project, we have the follow
 * [Tab with single sign on]()
 * [Message Extension with single sign on]()
 
-## Project Samples to get inspired ✨
+## Project samples to get inspired ✨
 
 * [Microsoft - Teams Framework (TeamsFx) Sample Gallery](https://github.com/officedev/teamsfx-samples)
 * [Microsoft 365 & Power Platform Community - Teams Development Samples](https://pnp.github.io/teams-dev-samples/)
