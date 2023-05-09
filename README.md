@@ -31,8 +31,8 @@ Register to Hack Together:
 Before you start hacking, you will need an environment setup. Review **[Environment Setup](https://github.com/microsoft/hack-together-teams/blob/main/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
 * [Prepare your Office 365 tenant](/setup.md#1---prepare-your-microsoft-365-tenant)
-* [Visual Studio Code installed](https://code.visualstudio.com/download)
-* [NodeJS v16 installed](https://nodejs.org/download/release/v16.19.0/)
+* [Visual Studio Code](https://code.visualstudio.com/download) or [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+* [NodeJS v16 or higher](https://nodejs.org/download/release/v16.19.0/)
 * [Basic understanding of Microsoft Teams App](https://learn.microsoft.com/en-us/training/modules/intro-microsoft-teams-apps/)
 * Microsoft Edge, or Google Chrome web browsers installed
 
@@ -71,7 +71,6 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 * [Introduction to building apps for Microsoft Teams](https://learn.microsoft.com/en-us/training/modules/intro-microsoft-teams-apps/)
 * [Getting Started for building apps for Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-overview)
 * [Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
-* [Explore about Bots for Teams](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/what-are-bots)
 * [Teams Toolkit Overview](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?pivots=visual-studio-code)
 
 ## Templates 🪡
