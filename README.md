@@ -1,4 +1,4 @@
-# HackTogether: The Microsoft Teams Global Hack
+# HackTogether: The Microsoft Teams Global Hack 
 
 [![Register](https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
 
