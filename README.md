@@ -91,19 +91,14 @@ Projects will be evaluated by a panel of judges, including Microsoft executives,
 The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team). Winning solutions and/or product feedback may also be considered for integration into the Microsoft Teams product roadmap. Winners will also have the opportunity to showcase their projects to experts and leaders on Microsoft 365 Community Calls and on our YouTube channels.
 
 **🏆 Grand prize winner:**
-*Xbox
-*$200 digital gift card
-*
+* Xbox 🎮
+* $300 digital gift card 💸
 
 **🥇 Best AI-powered solution:**
-*$200 digital gift card
-*
-*
+* $300 digital gift card 💸
 
-**🥇 Best productivity solution:**
-*$200 digital gift card
-*
-*
+**🥇 Best productivity-focused solution:**
+* $300 digital gift card 💸
 
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
 
@@ -113,7 +108,7 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 1. Innovation
 2. Impact
 3. Technical Usability/User Experience
-4. Alignment with hackathon category
+4. Alignment with hackathon category (either AI-powered or productivity-focused)
 
 ---
 [Footer meet the team image] [Ayca]
