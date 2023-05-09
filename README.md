@@ -134,7 +134,7 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 <img width="1307" alt="banner-m365-community" src="https://github.com/microsoft/hack-together-teams/assets/36196437/dd2d2908-85ab-40fc-a6bc-a2560ff74efe">
 
 ---
-**Speacial thanks to our partner [European Collaboration Summit](https://collabsummit.eu) for their contributions in HackTogether: The Microsoft Teams Global Hack.
+**Speacial thanks to our partner [European Collaboration Summit](https://collabsummit.eu) for their contributions in HackTogether: The Microsoft Teams Global Hack.**
 ![summit](https://github.com/microsoft/hack-together-teams/assets/36196437/23e819c2-3805-4eb4-9aa5-b76117056ee5)
 
 [![Register](https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
