@@ -37,7 +37,7 @@ Before you start hacking, you will need an environment setup. Review **[Environm
 * Microsoft Edge, or Google Chrome web browsers installed
 * [SPFx] [Gulp](https://gulpjs.com/)
 * [SPFx] [Yeoman](https://yeoman.io/)
-* [SPFx] []() or []()
+* [SPFx] [Visual Studio Code](https://code.visualstudio.com/download) or [webstorm](https://www.jetbrains.com/webstorm/)
 
 Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](https://github.com/microsoft/hack-together-teams/discussions/1)
 
