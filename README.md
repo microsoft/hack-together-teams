@@ -1,6 +1,8 @@
 # HackTogether: The Microsoft Teams Global Hack 
 
-[![Register](https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
+<p align="center">
+  <a href="https://aka.ms/hack-together-teams/register"><img src="https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams" alt="Hackathon survey" border="0" /></a>
+</p>
 
 ## Introduction
 
@@ -103,23 +105,23 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
 
----
-**ℹ️ Hack Together winners will be selected as per the following judging criteria:**
+>**ℹ️ Hack Together winners will be selected as per the following judging criteria:**
+>
+>1. Innovation
+>2. Impact
+>3. Technical Usability/User Experience
+>4. Alignment with hackathon category (either AI-powered or productivity-focused)
 
-1. Innovation
-2. Impact
-3. Technical Usability/User Experience
-4. Alignment with hackathon category (either AI-powered or productivity-focused)
+## Join the community 💜
 
----
-
-## Join the community
 [Join the Microsoft 365 and Power Platform Community](https://pnp.github.io/) to find like-minded people, attend [community calls](https://pnp.github.io/#community), and explore [resources](https://pnp.github.io/#samples) to see what other apps you can build for Microsoft Teams!
-<img width="1307" alt="banner-m365-community" src="https://github.com/microsoft/hack-together-teams/assets/36196437/dd2d2908-85ab-40fc-a6bc-a2560ff74efe">
 
+<img width="1307" alt="banner-m365-community" src="https://github.com/microsoft/hack-together-teams/assets/36196437/dd2d2908-85ab-40fc-a6bc-a2560ff74efe">
 
 *Speacial thanks to our partner **[European Collaboration Summit](https://collabsummit.eu)** for their contributions in HackTogether: The Microsoft Teams Global Hack.*
 
-[![Register](https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
+<p align="center">
+  <a href="https://aka.ms/hack-together-teams/register"><img src="https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams" alt="Hackathon survey" border="0" /></a>
+</p>
 
 
