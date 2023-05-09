@@ -70,7 +70,7 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 
 * [Learn Path - Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/training/paths/m365-teams-toolkit-vsc/)
 * [Learn Module - Introduction to building apps for Microsoft Teams](https://learn.microsoft.com/en-us/training/modules/intro-microsoft-teams-apps/)
-* [Documentation - Teams app that fits]([https://learn.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-overview](https://learn.microsoft.com/en-us/microsoftteams/platform/overview))
+* [Documentation - Teams app that fits](https://learn.microsoft.com/en-us/microsoftteams/platform/overview)
 * [Documentation - From ideas to Teams app](https://learn.microsoft.com/en-us/microsoftteams/platform/overview-story)
 * [Documentation - Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
 
