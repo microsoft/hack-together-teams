@@ -83,6 +83,7 @@ If you are looking for a code template to start your project, we have the follow
 * [Visual Studio Code with JavaScript/TypeScript]()
 
 ## Samples to get inspired ✨
+If you are looking for scenarios or project ideas to get inspired, we have many samples available for you to explore! Check out below repositories to discover what you can build and get some inspiration for your hack!
 
 * [Microsoft - Teams Framework (TeamsFx) Sample Gallery](https://github.com/officedev/teamsfx-samples)
 * [Microsoft 365 & Power Platform Community - Teams Development Samples](https://pnp.github.io/teams-dev-samples/)
