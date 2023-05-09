@@ -4,7 +4,7 @@
 
 ## Introduction
 
-🛠️Build, hack, and transform at **HackTogether**!🛠️ It's time to get started building apps for Microsoft Teams. 🔥
+🛠️Build, innovate, and **#HackTogether**!🛠️ It's time to get started building apps for Microsoft Teams. 🔥
 
 HackTogether is your playground for coding and experimenting with Microsoft Teams. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build Teams apps based on the top Microsoft Teams app scenarios. The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
 
@@ -62,6 +62,8 @@ Either team up (max 4 team members) or fly solo to join the hacking! Make sure t
 
 You may submit your project here when it's ready: **[🚀 Project Submission](https://github.com/microsoft/hack-together-teams/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
 
+There will be a grand prize winner out of all projects as well as a 'Best AI-powered solution' and 'Best productivity-focused solution,' so it is worthwhile to align your hack to one of these categories.
+
 Check out this video for step by step project submission guidance:
 
 [VIDEO] [Kamal]
@@ -90,20 +92,20 @@ Projects will be evaluated by a panel of judges, including Microsoft executives,
 
 The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team). Winning solutions and/or product feedback may also be considered for integration into the Microsoft Teams product roadmap. Winners will also have the opportunity to showcase their projects to experts and leaders on Microsoft 365 Community Calls and on our YouTube channels.
 
-**🏆 Grand prize winner:**
+**🏆 Grand prize winner:** The best of the best! This cateogry rewards the solution that meets all judging criteria, wows judges, and has potential real-world value for the 300M Teams users.
 * Xbox 🎮
 * $300 digital gift card 💸
 
-**🥇 Best AI-powered solution:**
+**🥇 Best AI-powered solution:** This category rewards the solution that integrates AI or machine learning in an innovative way. For example, a chatbot that automates common tasks in Teams or an app that uses AI to suggest relevant files for users. 
 * $300 digital gift card 💸
 
-**🥇 Best productivity-focused solution:**
+**🥇 Best productivity-focused solution:** This category rewards the solution that facilitates productivity and collaboration within Teams. For example, extending an existing app to Teams or creating a custom solution that helps team members stay organized during meetings.
 * $300 digital gift card 💸
 
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
 
 ---
-**ℹ️ Hack Together winners will be selected as per the following judging criterias:**
+**ℹ️ Hack Together winners will be selected as per the following judging criteria:**
 
 1. Innovation
 2. Impact
