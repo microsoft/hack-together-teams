@@ -106,6 +106,9 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 **🥇 Best productivity-focused solution:** _This category rewards the solution that facilitates productivity and collaboration within Teams. For example, extending an existing app to Teams or creating a custom solution that helps team members stay organized during meetings._
 * $300 digital gift card 💸
 
+**🥇 Community hack winner:** _This category rewards the solution chosen by the European Collaboration Summit (ECS) panel of judges._
+* C64 retro computer 🖥️
+
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
 
 >**ℹ️ Hack Together winners will be selected as per the following judging criteria:**
