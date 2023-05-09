@@ -79,8 +79,8 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 ## Templates to get started 🪡
 If you are looking for a code template to start your project, we have the following templates available for you in this repository created using Teams Toolkit for Visual Studio(.NET) and Visual Studio Code(JavaScript/TypeScript).
 
-* [Visual Studio & .NET]()
-* [Visual Studio Code & JavaScript/TypeScript]()
+* [Visual Studio with .NET]()
+* [Visual Studio Code with JavaScript/TypeScript]()
 
 ## Samples to get inspired ✨
 
