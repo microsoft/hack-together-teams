@@ -26,9 +26,7 @@ Follow the steps below to successfully complete the hackathon.
 
 ### #00 - Pre-requisites
 
-Register to Hack Together: 
-
-[![Register](https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
+Register to Hack Together: [![Register](https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
 
 Before you start hacking, you will need an environment setup. Review **[Environment Setup](https://github.com/microsoft/hack-together-teams/blob/main/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
