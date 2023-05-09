@@ -60,9 +60,7 @@ Either team up (max 4 team members) or fly solo to join the hacking! Make sure t
 
 ### #03 - Submit your project until June 15th 23:59 PM PST
 
-You may submit your project to one of the hackathon categories here when it's ready: **[🚀 Project Submission](https://github.com/microsoft/hack-together-teams/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
-
-[CATEGORIES] [Daisy]
+You may submit your project here when it's ready: **[🚀 Project Submission](https://github.com/microsoft/hack-together-teams/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
 
 Check out this video for step by step project submission guidance:
 
@@ -92,18 +90,18 @@ Projects will be evaluated by a panel of judges, including Microsoft executives,
 
 The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team). Winning solutions and/or product feedback may also be considered for integration into the Microsoft Teams product roadmap. Winners will also have the opportunity to showcase their projects to experts and leaders on Microsoft 365 Community Calls and on our YouTube channels.
 
-**🥇 First prize winner:**
+**🏆 Grand prize winner:**
+*Xbox
+*$200 digital gift card
 *
+
+**🥇 Best AI-powered solution:**
+*$200 digital gift card
 *
 *
 
-**🥈 Second prize winner:**
-*
-*
-*
-
-**🥉 Third prize winner:**
-*
+**🥇 Best productivity solution:**
+*$200 digital gift card
 *
 *
 
