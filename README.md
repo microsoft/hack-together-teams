@@ -1,5 +1,7 @@
 # HackTogether: The Microsoft Teams Global Hack 
 
+![TeamsGlobalHack Banner (1)](https://github.com/microsoft/hack-together-teams/assets/45178151/0b0fa431-c6b7-4ee1-a2b6-cba5f08cb45e)
+
 <p align="center">
   <a href="https://aka.ms/hack-together-teams/register"><img src="https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams" alt="Hackathon survey" border="0" /></a>
 </p>
