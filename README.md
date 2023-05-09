@@ -45,8 +45,6 @@ Either team up (max 4 team members) or fly solo to join the hacking! Make sure t
 
 ### #02 - Join live sessions for learning and inspiration
 
-[ADD TO CALENDAR BUTTON] [Ayca]
-
 [![Calendar Invite](https://img.shields.io/badge/Calendar-Invite-4285F4?style=for-the-badge&logoColor=white&logo=googlecalendar)](https://aka.ms/hack-together-teams/session1)
 
 * **[June 1st - Join Live 📺](https://aka.ms/hack-together-teams/session1):** Ready, Set, Hack: Empower the developer in you with Microsoft Teams App Development!
