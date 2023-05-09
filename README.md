@@ -111,7 +111,6 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 4. Alignment with hackathon category (either AI-powered or productivity-focused)
 
 ---
-[Footer meet the team image] [Ayca]
 
 [![Register](https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
 
