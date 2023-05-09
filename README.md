@@ -15,9 +15,9 @@ The hackathon starts on **June 1st** and ends on **June 15th**. It is recommende
 ### Tips & Tricks
 
 * Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together-teams/discussions/new?category=q-a)**. Microsoft experts will be there to help you.
-* There are a lot of project samples available in the **[✨ Project samples to get inspired](https://github.com/microsoft/hack-together-teams/blob/main/top-scenarios.md)** section! You can get inspired by one of these samples while working on your hack to win a digital badge, or get some news ideas for your own project!
+* There are a lot of project samples available in the **[✨ Project samples to get inspired](https://github.com/microsoft/hack-together-teams/blob/main/README.md#samples-to-get-inspired-)** section! You can get inspired by one of these samples while working on your hack to win a digital badge, or get some news ideas for your own project!
 * Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](https://github.com/microsoft/hack-together-teams/blob/main/README.md#recommended-learning-materials-)** below.
-* Looking for code templates to start with? Check out available **[🪡 Templates](https://github.com/microsoft/hack-together-teams/blob/main/README.md#templates-)** in the repository.
+* Looking for code templates to start with? Check out available **[🪡 Templates](https://github.com/microsoft/hack-together-teams/blob/main/README.md#templates-to-get-started-)** in the repository.
 * Submit your project until June 15 to win **[🏆 Judging and Prizes](https://github.com/microsoft/hack-together-teams/blob/main/README.md#judging-and-prizes-)**.
 
 ## HackTogether Roadmap 🗺️
@@ -76,13 +76,13 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 * [Documentation - From ideas to Teams app](https://learn.microsoft.com/en-us/microsoftteams/platform/overview-story)
 * [Documentation - Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
 
-## Getting started templates 🪡
+## Templates to get started 🪡
 If you are looking for a code template to start your project, we have the following templates available for you in this repository created using Teams Toolkit for Visual Studio(.NET) and Visual Studio Code(JavaScript/TypeScript).
 
 * [Visual Studio & .NET]()
 * [Visual Studio Code & JavaScript/TypeScript]()
 
-## Project samples to get inspired ✨
+## Samples to get inspired ✨
 
 * [Microsoft - Teams Framework (TeamsFx) Sample Gallery](https://github.com/officedev/teamsfx-samples)
 * [Microsoft 365 & Power Platform Community - Teams Development Samples](https://pnp.github.io/teams-dev-samples/)
