@@ -92,14 +92,14 @@ Projects will be evaluated by a panel of judges, including Microsoft executives,
 
 The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team). Winning solutions and/or product feedback may also be considered for integration into the Microsoft Teams product roadmap. Winners will also have the opportunity to showcase their projects to experts and leaders on Microsoft 365 Community Calls and on our YouTube channels.
 
-**🏆 Grand prize winner:** The best of the best! This cateogry rewards the solution that meets all judging criteria, wows judges, and has potential real-world value for the 300M Teams users.
+**🏆 Grand prize winner:** _The best of the best! This category rewards the solution that meets all judging criteria, wows judges, and has potential real-world value for the 300M Teams users._
 * Xbox 🎮
 * $300 digital gift card 💸
 
-**🥇 Best AI-powered solution:** This category rewards the solution that integrates AI or machine learning in an innovative way. For example, a chatbot that automates common tasks in Teams or an app that uses AI to suggest relevant files for users. 
+**🥇 Best AI-powered solution:** _This category rewards the solution that integrates AI or machine learning in an innovative way. For example, a chatbot that automates common tasks in Teams or an app that uses AI to suggest relevant files for users._ 
 * $300 digital gift card 💸
 
-**🥇 Best productivity-focused solution:** This category rewards the solution that facilitates productivity and collaboration within Teams. For example, extending an existing app to Teams or creating a custom solution that helps team members stay organized during meetings.
+**🥇 Best productivity-focused solution:** _This category rewards the solution that facilitates productivity and collaboration within Teams. For example, extending an existing app to Teams or creating a custom solution that helps team members stay organized during meetings._
 * $300 digital gift card 💸
 
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
