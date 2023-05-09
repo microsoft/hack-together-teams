@@ -121,8 +121,9 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 
 *Speacial thanks to our partner **[European Collaboration Summit](https://collabsummit.eu)** for their contributions in HackTogether: The Microsoft Teams Global Hack.*
 
+## Feedback ♻️
+We are excited to learn from you! Please share your experience and feedbach with us: [Feedback Survey](https://aka.ms/hack-together-teams/survey).
+
 <p align="center">
   <a href="https://aka.ms/hack-together-teams/register"><img src="https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams" alt="Hackathon survey" border="0" /></a>
 </p>
-
-
