@@ -31,13 +31,11 @@ Register to Hack Together:
 Before you start hacking, you will need an environment setup. Review **[Environment Setup](https://github.com/microsoft/hack-together-teams/blob/main/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
 * [Prepare your Office 365 tenant](/setup.md#1---prepare-your-microsoft-365-tenant)
-* [Visual Studio Code](https://code.visualstudio.com/download) or [Visual Studio](https://visualstudio.microsoft.com/downloads/)
-* [NodeJS v16 or higher](https://nodejs.org/download/release/v16.19.0/)
-* [Basic understanding of Microsoft Teams App](https://learn.microsoft.com/en-us/training/modules/intro-microsoft-teams-apps/)
-* Microsoft Edge, or Google Chrome web browsers installed
-* [SPFx] [Gulp](https://gulpjs.com/)
-* [SPFx] [Yeoman](https://yeoman.io/)
-* [SPFx] [Visual Studio Code](https://code.visualstudio.com/download) or [webstorm](https://www.jetbrains.com/webstorm/)
+* [Install Visual Studio or Visual Studio Code (Recommended)](/setup.md#2---install-visual-studio-or-visual-studio-code-recommended)
+* [Install Teams Toolkit for Visual Studio or Visual Studio Code (Recommended)](/setup.md#3---install-teams-toolkit-for-visual-studio-or-visual-studio-code-recommended)
+* [Install the browser of your choice](/setup.md#4---install-the-browser-of-your-choice)
+* [Setup your GitHub account](/setup.md#5---setup-your-github-account)
+* For SharePoint - [SharePoint Framework Environment Setup](/setup.md#sharepoint-framework-environment-setup)
 
 Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](https://github.com/microsoft/hack-together-teams/discussions/1)
 
