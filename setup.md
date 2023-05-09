@@ -16,3 +16,36 @@ If you are a Microsoft 365 subscriber, you can develop apps with Microsoft Graph
 * Developer
 * Education, Education Plus, and Education E5
 * Microsoft Teams will also be available to customers who subscribed to E4 prior to its retirement.
+
+
+**You can use any code editor or IDE that supports client-side development to build your Application**
+
+* [Visual Studio Code](https://code.visualstudio.com/download) JavaScript, TypeScript, or SharePoint Framework (SPFx) build environments.
+* [Visual Studio](https://visualstudio.microsoft.com/downloads/) 
+
+but you can use any editor of your choice.
+
+**Install Node.js**
+
+Back-end JavaScript runtime environment.Install the most recent LTS version of Node.js v16 or Higher
+* [Node Js](https://nodejs.org/download/release/v16.19.0/)
+
+You can check if you already have Node.js already installed, including installed version, by running the following command:
+
+``` node --version ```
+
+**Browser Installed**
+
+A browser with developer tools, Microsoft Edge(Recommended), or Google Chrome web browsers installed
+
+**Microsoft Teams**
+
+Microsoft Teams to collaborate with everyone you work with through apps for chat, meetings, call - all in one place.
+
+* [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+
+**Developer Portal for Teams**
+
+Web-based portal to configure, manage, and distribute your Teams app including to your organization or the Teams store.
+
+* [Developer Portal](https://dev.teams.microsoft.com/home)
