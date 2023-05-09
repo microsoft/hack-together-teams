@@ -35,6 +35,7 @@ Before you start hacking, you will need an environment setup. Review **[Environm
 * [NodeJS v16 or higher](https://nodejs.org/download/release/v16.19.0/)
 * [Basic understanding of Microsoft Teams App](https://learn.microsoft.com/en-us/training/modules/intro-microsoft-teams-apps/)
 * Microsoft Edge, or Google Chrome web browsers installed
+* [SPFx] [Gulp](https://gulpjs.com/)
 
 Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](https://github.com/microsoft/hack-together-teams/discussions/1)
 
