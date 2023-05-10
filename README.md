@@ -32,14 +32,14 @@ Register to Hack Together:
 
 [![Register](https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams )](https://aka.ms/hack-together-teams/register)
 
-Before you start hacking, you will need an environment setup. Review **[Environment Setup](https://github.com/microsoft/hack-together-teams/blob/main/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
+Before you start hacking, you will need an environment setup. Review **[Environment Setup](https://github.com/microsoft/hack-together-teams/blob/main/SETUP.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
-* [Prepare your Office 365 tenant](/setup.md#1---prepare-your-microsoft-365-tenant)
-* [Install Visual Studio or Visual Studio Code (Recommended)](/setup.md#2---install-visual-studio-or-visual-studio-code-recommended)
-* [Install Teams Toolkit for Visual Studio or Visual Studio Code (Recommended)](/setup.md#3---install-teams-toolkit-for-visual-studio-or-visual-studio-code-recommended)
-* [Install the browser of your choice](/setup.md#4---install-the-browser-of-your-choice)
-* [Setup your GitHub account](/setup.md#5---setup-your-github-account)
-* For SharePoint - [SharePoint Framework Environment Setup](/setup.md#sharepoint-framework-environment-setup)
+* [Prepare your Office 365 tenant](/SETUP.md#1---prepare-your-microsoft-365-tenant)
+* [Install Visual Studio or Visual Studio Code (Recommended)](/SETUP.md#2---install-visual-studio-or-visual-studio-code-recommended)
+* [Install Teams Toolkit for Visual Studio or Visual Studio Code (Recommended)](/SETUP.md#3---install-teams-toolkit-for-visual-studio-or-visual-studio-code-recommended)
+* [Install the browser of your choice](/SETUP.md#4---install-the-browser-of-your-choice)
+* [Setup your GitHub account](/SETUP.md#5---setup-your-github-account)
+* For SharePoint - [SharePoint Framework Environment Setup](/SETUP.md#sharepoint-framework-environment-setup)
 
 Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](https://github.com/microsoft/hack-together-teams/discussions/1)
 
