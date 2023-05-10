@@ -64,9 +64,7 @@ You may submit your project here when it's ready: **[🚀 Project Submission](ht
 
 There will be a grand prize winner out of all projects as well as a 'Best AI-powered solution' and 'Best productivity-focused solution,' so it is worthwhile to align your hack to one of these categories.
 
-Check out this video for step by step project submission guidance:
-
-[VIDEO] [Kamal]
+Check out this video for step by step project submission guidance: _coming soon!_
 
 We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](https://github.com/microsoft/hack-together-teams/discussions/2)
 
@@ -127,7 +125,7 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 *Speacial thanks to our partner **[European Collaboration Summit](https://collabsummit.eu)** for their contributions in HackTogether: The Microsoft Teams Global Hack.*
 
 ## Feedback ♻️
-We are excited to learn from you! Please share your experience and feedbach with us: [Feedback Survey](https://aka.ms/hack-together-teams/survey).
+We are excited to learn from you! Please share your experience and feedback with us: [Feedback Survey](https://aka.ms/hack-together-teams/survey).
 
 <p align="center">
   <a href="https://aka.ms/hack-together-teams/register"><img src="https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams" alt="Hackathon survey" border="0" /></a>
