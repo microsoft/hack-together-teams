@@ -125,6 +125,8 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 
 *Speacial thanks to our partner **[European Collaboration Summit](https://collabsummit.eu)** for their contributions in HackTogether: The Microsoft Teams Global Hack.*
 
+![summit](https://github.com/microsoft/hack-together-teams/assets/36196437/b4b996b2-a093-4c44-8890-b8067107131d)
+
 ## Feedback ♻️
 We are excited to learn from you! Please share your experience and feedback with us: [Feedback Survey](https://aka.ms/hack-together-teams/survey).
 
