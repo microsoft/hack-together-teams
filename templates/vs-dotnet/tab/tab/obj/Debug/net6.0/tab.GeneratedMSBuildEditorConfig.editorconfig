@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = tab
+build_property.RootNamespace = tab
+build_property.ProjectDir = C:\Users\aycabas.MIDDLEEAST\Downloads\teams-toolkit-vs\tab\tab\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\aycabas.MIDDLEEAST\Downloads\teams-toolkit-vs\tab\tab
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Components/AddSSO.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBZGRTU08ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Components/Deploy.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXBsb3kucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Components/EditCode.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFZGl0Q29kZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Components/Loading.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMb2FkaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Components/Publish.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQdWJsaXNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Pages/Privacy.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Pages/TabConfig.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFiQ29uZmlnLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Pages/TermsOfUse.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVybXNPZlVzZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Components/Welcome.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXZWxjb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-uig13uhjmo
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Pages/Tab.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFiLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-c0jucbazim
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aycabas.MIDDLEEAST/Downloads/teams-toolkit-vs/tab/tab/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

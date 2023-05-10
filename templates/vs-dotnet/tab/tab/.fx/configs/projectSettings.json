@@ -1,0 +1,46 @@
+{
+    "appName": "tab",
+    "projectId": "d044e1df-1a58-4ec9-adcf-11ff3585860d",
+    "version": "2.1.0",
+    "components": [
+        {
+            "name": "teams-tab",
+            "hosting": "azure-web-app",
+            "deploy": true,
+            "provision": true,
+            "build": true,
+            "folder": "."
+        },
+        {
+            "name": "azure-web-app",
+            "scenario": "Tab",
+            "provision": true,
+            "connections": [
+                "identity",
+                "teams-tab"
+            ]
+        },
+        {
+            "name": "identity",
+            "provision": true
+        }
+    ],
+    "programmingLanguage": "csharp",
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "Azure",
+        "azureResources": [],
+        "capabilities": [
+            "Tab"
+        ],
+        "activeResourcePlugins": [
+            "fx-resource-local-debug",
+            "fx-resource-appstudio",
+            "fx-resource-cicd",
+            "fx-resource-api-connector",
+            "fx-resource-frontend-hosting",
+            "fx-resource-identity"
+        ]
+    }
+}
