@@ -13,7 +13,7 @@ Before installing Teams Toolkit for Visual Studio, you need to [download and ins
 
    Visual Studio installer shows all workloads, whether installed or available for installation.
     
-    [Image 1]
+    ![1](https://github.com/microsoft/hack-together-teams/assets/36196437/08d6272e-3f55-4e2c-a8b3-76e352f7c6c5)
 
    Select the following options to install Teams Toolkit:
    1. Select the **Workloads** tab, then select the **ASP.NET and web development** workload.
@@ -22,11 +22,12 @@ Before installing Teams Toolkit for Visual Studio, you need to [download and ins
 
 1. After the installation completes, select **Launch** to open Visual Studio.
 
-    [Image 2]
+   <img width="637" alt="2" src="https://github.com/microsoft/hack-together-teams/assets/36196437/154883dc-cdf3-48e4-947d-7721f5d5bb1f">
 
 Teams Toolkit menu options are available in Visual Studio only when an app project created using Teams Toolkit is open.
 
-[Image 3]
+   <img width="956" alt="3" src="https://github.com/microsoft/hack-together-teams/assets/36196437/af3d2a34-295c-4a5b-abd2-2da79d69ab79">
+
 
 ## Next steps
 
