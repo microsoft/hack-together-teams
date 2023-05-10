@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "notification-bot-func-http", "notification-bot-func-http\notification-bot-func-http.csproj", "{EE5234D1-D6B7-4535-A298-DD13901E8BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE5234D1-D6B7-4535-A298-DD13901E8BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5234D1-D6B7-4535-A298-DD13901E8BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5234D1-D6B7-4535-A298-DD13901E8BBC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EE5234D1-D6B7-4535-A298-DD13901E8BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5234D1-D6B7-4535-A298-DD13901E8BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5234D1-D6B7-4535-A298-DD13901E8BBC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4755437-E1A1-4DA1-BB6C-5C5BD86F1099}
+	EndGlobalSection
+EndGlobal

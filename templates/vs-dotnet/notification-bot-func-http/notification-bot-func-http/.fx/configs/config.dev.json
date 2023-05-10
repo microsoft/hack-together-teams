@@ -1,0 +1,18 @@
+{
+    "$schema": "https://aka.ms/teamsfx-env-config-schema",
+    "description": "You can customize the TeamsFx config for different environments. Visit https://aka.ms/teamsfx-env-config to learn more about this.",
+    "manifest": {
+        "appName": {
+            "short": "notification-bot-func-http",
+            "full": "Full name for notification-bot-func-http"
+        },
+        "description": {
+            "short": "Short description of notification-bot-func-http",
+            "full": "Full description of notification-bot-func-http"
+        },
+        "icons": {
+            "color": "resources/color.png",
+            "outline": "resources/outline.png"
+        }
+    }
+}
