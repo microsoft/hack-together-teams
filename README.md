@@ -121,7 +121,7 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 
 [Join the Microsoft 365 and Power Platform Community](https://pnp.github.io/) to find like-minded people, attend [community calls](https://pnp.github.io/#community), and explore [resources](https://pnp.github.io/#samples) to see what other apps you can build for Microsoft Teams!
 
-<img width="1307" alt="banner-m365-community" src="https://github.com/microsoft/hack-together-teams/assets/36196437/dd2d2908-85ab-40fc-a6bc-a2560ff74efe">
+<img width="1307" alt="banner-m365-community" src="https://github.com/microsoft/hack-together-teams/assets/36196437/5e38dfeb-8a00-4f59-819e-d94b74b3069e">
 
 *Speacial thanks to our partner **[European Collaboration Summit](https://collabsummit.eu)** for their contributions in HackTogether: The Microsoft Teams Global Hack.*
 
