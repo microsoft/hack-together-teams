@@ -24,6 +24,8 @@ The hackathon starts on **June 1st** and ends on **June 15th**. It is recommende
 
 ## HackTogether Roadmap 🗺️
 
+![TeamsGlobalHack Roadmap](https://github.com/microsoft/hack-together-teams/assets/45178151/8a97e909-9783-45e6-8484-e786250a5c7a)
+
 Follow the steps below to successfully complete the hackathon.
 
 ### #00 - Pre-requisites
