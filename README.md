@@ -120,6 +120,7 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 >4. Alignment with hackathon category (either AI-powered or productivity-focused)
 
 ## Join the community 💜
+**Do you have an existing Microsoft Teams app and want help from Microsoft experts?** [Fill out this form for 1:1 assistance.](https://aka.ms/TeamsApp/Support)
 
 [Join the Microsoft 365 and Power Platform Community](https://pnp.github.io/) to find like-minded people, attend [community calls](https://pnp.github.io/#community), and explore [resources](https://pnp.github.io/#samples) to see what other apps you can build for Microsoft Teams!
 
