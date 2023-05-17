@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-basic-tab-client-side-solution",
+    "id": "fa721bc4-79a9-4869-b335-46bd2d768961",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-basic-tab description"
+      },
+      "longDescription": {
+        "default": "spfx-basic-tab description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-basic-tab Feature",
+        "description": "The feature that activates elements of the spfx-basic-tab solution.",
+        "id": "4abf9fa2-cfd9-4d75-aa26-262885a98a26",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-basic-tab.sppkg"
+  }
+}
