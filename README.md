@@ -17,7 +17,7 @@ The hackathon starts on **June 1st** and ends on **June 15th**. It is recommende
 ### Tips & Tricks
 
 * Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together-teams/discussions/new?category=q-a)**. Microsoft experts will be there to help you.
-* There are a lot of project samples available in the **[✨ Project samples to get inspired](https://github.com/microsoft/hack-together-teams/blob/main/README.md#samples-to-get-inspired-)** section! You can get inspired by one of these samples while working on your hack to win a digital badge, or get some news ideas for your own project!
+* Are your looking for a project idea? Check out [📃 Top Teams App Scenarios](https://github.com/microsoft/hack-together-teams/blob/main/TOP-SCENARIOS.md) to pick a project idea to get started, or get insipired for your own project idea! Also, there are many samples available in the **[✨ Project samples to get inspired](https://github.com/microsoft/hack-together-teams/blob/main/README.md#samples-to-get-inspired-)** section if you are looking for more inspiration while working on your hack to win a digital badge!
 * Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](https://github.com/microsoft/hack-together-teams/blob/main/README.md#recommended-learning-materials-)** below.
 * Looking for code templates to start with? Check out available **[🪡 Templates](https://github.com/microsoft/hack-together-teams/blob/main/README.md#templates-to-get-started-)** in the repository.
 * Submit your project until June 15 to win **[🏆 Judging and Prizes](https://github.com/microsoft/hack-together-teams/blob/main/README.md#judging-and-prizes-)**.
