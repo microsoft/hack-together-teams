@@ -41,6 +41,7 @@ Before you start hacking, you will need an environment setup. Review **[Environm
 * [Install Teams Toolkit for Visual Studio or Visual Studio Code (Recommended)](/SETUP.md#3---install-teams-toolkit-for-visual-studio-or-visual-studio-code-recommended)
 * [Install the browser of your choice](/SETUP.md#4---install-the-browser-of-your-choice)
 * [Setup your GitHub account](/SETUP.md#5---setup-your-github-account)
+* For Teams AI Library - [Get started with Teams AI Library](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/how-conversation-ai-get-started)
 * For SharePoint - [SharePoint Framework Environment Setup](/SETUP.md#sharepoint-framework-environment-setup)
 
 Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](https://github.com/microsoft/hack-together-teams/discussions/1)
