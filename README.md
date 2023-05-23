@@ -77,6 +77,9 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 * [Learn Module - Introduction to building apps for Microsoft Teams](https://learn.microsoft.com/en-us/training/modules/intro-microsoft-teams-apps/)
 * [Documentation - Teams app that fits](https://learn.microsoft.com/en-us/microsoftteams/platform/overview)
 * [Documentation - From ideas to Teams app](https://learn.microsoft.com/en-us/microsoftteams/platform/overview-story)
+* [Documentation - Teams AI library](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/teams-conversation-ai-overview)
+* [Documentation - Teams AI library Quick start guide](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/conversation-ai-quick-start)
+* [Tutorial - Build your first app using Teams AI library](https://learn.microsoft.com/en-us/microsoftteams/platform/sbs-botbuilder-conversation-ai?tabs=vscode%2Cviscode)
 * [Documentation - Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
 
 ## Templates to get started 🪡
@@ -90,6 +93,7 @@ If you are looking for scenarios or project ideas to get inspired, we have many 
 
 * [Microsoft - Teams Framework (TeamsFx) Sample Gallery](https://github.com/officedev/teamsfx-samples)
 * [Microsoft 365 & Power Platform Community - Teams Development Samples](https://pnp.github.io/teams-dev-samples/)
+* [Teams AI Library Samples](https://github.com/microsoft/teams-ai)
 
 ## Judging and Prizes 🏆
 
