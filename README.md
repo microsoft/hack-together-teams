@@ -68,7 +68,7 @@ You may submit your project here when it's ready: **[🚀 Project Submission](ht
 There will be a grand prize winner out of all projects as well as a 'Best AI-powered solution' and 'Best productivity-focused solution,' so it is worthwhile to align your hack to one of these categories.
 
 Check out this video for step by step project submission guidance:
-[Project Submission Video](https://github.com/microsoft/hack-together-teams/assets/3199282/70c9008f-8de5-4b01-9143-6db7183fb9a8)
+[Project Submission Video](https://github.com/microsoft/hack-together-teams/assets/3199282/572ea387-61ec-4b77-9885-23b5b2bd39bd)
 
 We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](https://github.com/microsoft/hack-together-teams/discussions/2)
 
