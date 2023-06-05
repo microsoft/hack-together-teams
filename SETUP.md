@@ -29,7 +29,7 @@ The Teams Toolkit is an extension for Visual Studio Code and Visual Studio 2022 
 ## Teams Toolkit for Visual Studio
 You can use Teams Toolkit for Visual Studio to build your app with .NET.
 
-* Install [Teams Toolkit for Visual Studio](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/install-teams-toolkit?tabs=vscode&pivots=visual-studio) 
+* Install [Teams Toolkit for Visual Studio](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/toolkit-v4/install-teams-toolkit-v4?tabs=vscode&pivots=visual-studio) 
 
 ## Teams Toolkit for Visual Studio Code
 You can use Teams Toolkit for Visual Studio Code to build your app with JavaScript, TypeScript, or SharePoint Framework (SPFx).
