@@ -15,7 +15,7 @@ Messaging extension to share a document you recently worked with in a conversati
 - Personal dashboard (tab)
 - Reminders: Create an app that can remind of your messages in channels or chats with different intervals - including custom timespans. Interact with the app to manage current reminders.
 - Approval flow: the app that lets an employee submit a form that requires a manager's approval. The manager receives a notification where they can either approve or deny the request	There are many use cases for this app flow. Time-off, expense, etc. Can be applied as a legal form that requires to "agree".
-- Standup Assistant: An app that sends an adaptive card to the Team before stand up everyday with llist of work items with actions to Update status and comments directly in the cards.
+- Standup Assistant: An app that sends an adaptive card to the Team before stand up everyday with list of work items with actions to Update status and comments directly in the cards.
 - While you were away...: An app that takes graph data and builds a ML backend summary for you, maybe an AI Generated voice does a podcast for you.
 - Notification bot that reminds the tasks of the day and share a summary of todo items for the day using AI.
 - Command bot to check the status of the tasks
