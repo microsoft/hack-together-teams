@@ -76,6 +76,8 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 
 * [Learn Path - Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/training/paths/m365-teams-toolkit-vsc/)
 * [Learn Module - Introduction to building apps for Microsoft Teams](https://learn.microsoft.com/en-us/training/modules/intro-microsoft-teams-apps/)
+* [Hands-on labs - New "App Camp" labs - Extend a web service to be a Teams message extension](https://aka.ms/app-camp-new)
+* [Hands-on labs and videos - "App Camp" labs - Extend a web site to be a Teams app](https://aka.ms/app-camp)
 * [Documentation - Teams app that fits](https://learn.microsoft.com/en-us/microsoftteams/platform/overview)
 * [Documentation - From ideas to Teams app](https://learn.microsoft.com/en-us/microsoftteams/platform/overview-story)
 * [Documentation - Teams AI library](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/teams-conversation-ai-overview)
