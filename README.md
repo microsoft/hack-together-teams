@@ -57,7 +57,7 @@ Either team up (max 4 team members) or fly solo to join the hacking! Make sure t
 * **[June 1st - Watch On Demand 🎥](https://aka.ms/hack-together-teams/session1):** Ready, Set, Hack: Empower the developer in you with Microsoft Teams app development!
 * **[June 5th - Watch On Demand 🎥](https://aka.ms/hack-together-teams/session2):** Intro to Teams tabs and building them with SharePoint Framework: Maximize Microsoft 365 investments
 * **[June 6th - Watch On Demand 🎥](https://aka.ms/hack-together-teams/session3):** Intro to Teams bots: Integrating AI into your bot logic
-* **[June 7th - Join Live 📺](https://aka.ms/hack-together-teams/session4):** Boost user engagement beyond Teams with Message Extensions and make your app intelligent using Microsoft Graph.
+* **[June 7th - Watch On Demand 🎥](https://aka.ms/hack-together-teams/session4):** Boost user engagement beyond Teams with Message Extensions and make your app intelligent using Microsoft Graph.
 * **[June 12th - Join Live 📺](https://aka.ms/hack-together-teams/session5):** Ask the experts: Meet our Engineering team and ask your pressing questions!
 * **[June 15th - Join Live 📺](https://aka.ms/hack-together-teams/session6):** Wrap up and take action: Join our community for the next Big Thing!
 
