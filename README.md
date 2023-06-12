@@ -89,7 +89,7 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 If you are looking for a code template to start your project, we have the following templates available for you in this repository created using Teams Toolkit for Visual Studio(.NET) and Visual Studio Code(JavaScript/TypeScript).
 
 * [Visual Studio with .NET](https://github.com/microsoft/hack-together-teams/tree/main/templates/vs-dotnet)
-* [Visual Studio Code with JavaScript/TypeScript](https://github.com/microsoft/hack-together-teams/tree/main/templates/vscode-js-ts)
+* [Visual Studio Code with JavaScript/TypeScript](https://github.com/microsoft/hack-together-teams/tree/main/templates/vscode-js)
 
 ## Samples to get inspired ✨
 If you are looking for scenarios or project ideas to get inspired, we have many samples available for you to explore! Check out below repositories to discover what you can build and get some inspiration for your hack!
