@@ -3,7 +3,8 @@
 ![TeamsGlobalHack Banner Dark](https://github.com/microsoft/hack-together-teams/assets/45178151/1a8b3b43-f674-4b35-a737-5a7cd1cf2e0c)
 
 <p align="center">
-  <a href="https://aka.ms/hack-together-teams/register"><img src="https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams" alt="Hackathon survey" border="0" /></a>
+  <a href="https://github.com/microsoft/hack-together-teams/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E"><img src="https://img.shields.io/badge/HackTogether-Submit%20your%20app-009933?style=for-the-badge&logoColor=white&logo=MicrosoftTeams" alt="Submit your app" border="0"/></a><br />
+  ...and don't forget to <a href="https://aka.ms/hack-together-teams/register">register</a> 😊
 </p>
 
 ## Introduction
@@ -141,5 +142,7 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 We are excited to learn from you! Please share your experience and feedback with us: [Feedback Survey](https://aka.ms/hack-together-teams/survey).
 
 <p align="center">
-  <a href="https://aka.ms/hack-together-teams/register"><img src="https://img.shields.io/badge/HackTogether-Register-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams" alt="Hackathon survey" border="0" /></a>
+  <a href="https://github.com/microsoft/hack-together-teams/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E"><img src="https://img.shields.io/badge/HackTogether-Submit%20your%20app-009933?style=for-the-badge&logoColor=white&logo=MicrosoftTeams" alt="Submit your app" border="0"/></a><br />
+  ...and don't forget to <a href="https://aka.ms/hack-together-teams/register">register</a> 😊
 </p>
+
