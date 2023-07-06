@@ -6,14 +6,6 @@
   <a href="https://aka.ms/hack-together-teams/survey"><img src="https://img.shields.io/badge/hackathon-survey-green?style=for-the-badge" alt="Hackathon survey" border="0" /></a>
 </p>
 
-## Introduction
-
-🛠️Build, innovate, and **#HackTogether**!🛠️ It's time to get started building apps for Microsoft Teams. 🔥
-
-HackTogether is your playground for coding and experimenting with Microsoft Teams. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build Teams apps based on the top Microsoft Teams app scenarios. The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
-
-The hackathon starts on **June 1st** and ends on **June 15th**. It is recommended for participants to follow the HackTogether Roadmap for a successful hackathon.
-
 ## We are excited to share the hackathon winners! 🎉
 * 🏆 Grand prize winner: [Live patient review](https://github.com/microsoft/hack-together-teams/issues/105)
 * 🏅 Best AI-powered solution: [Knowledge Quest Teams Bot](https://github.com/microsoft/hack-together-teams/issues/78)
@@ -28,6 +20,13 @@ The hackathon starts on **June 1st** and ends on **June 15th**. It is recommende
 **Congratulations to the winners and a huge thank you to all participants!**
 
 For more details, check out the [announcement article](https://devblogs.microsoft.com/microsoft365dev/announcing-the-hacktogether-microsoft-teams-global-hack-winners/#%f0%9f%8f%86-grand-prize-winner-live-patient-review).
+## Introduction
+
+🛠️Build, innovate, and **#HackTogether**!🛠️ It's time to get started building apps for Microsoft Teams. 🔥
+
+HackTogether is your playground for coding and experimenting with Microsoft Teams. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build Teams apps based on the top Microsoft Teams app scenarios. The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
+
+The hackathon starts on **June 1st** and ends on **June 15th**. It is recommended for participants to follow the HackTogether Roadmap for a successful hackathon.
 
 ### Tips & Tricks
 
