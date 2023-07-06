@@ -3,8 +3,7 @@
 ![TeamsGlobalHack Banner Dark](https://github.com/microsoft/hack-together-teams/assets/45178151/1a8b3b43-f674-4b35-a737-5a7cd1cf2e0c)
 
 <p align="center">
-  <a href="https://github.com/microsoft/hack-together-teams/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E"><img src="https://img.shields.io/badge/HackTogether-Submit%20your%20app-009933?style=for-the-badge&logoColor=white&logo=MicrosoftTeams" alt="Submit your app" border="0"/></a><br />
-  ...and don't forget to <a href="https://aka.ms/hack-together-teams/register">register</a> 😊
+  <a href="https://aka.ms/hack-together-teams/survey"><img src="https://img.shields.io/badge/hackathon-survey-green?style=for-the-badge" alt="Hackathon survey" border="0" /></a>
 </p>
 
 ## Introduction
@@ -14,6 +13,21 @@
 HackTogether is your playground for coding and experimenting with Microsoft Teams. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build Teams apps based on the top Microsoft Teams app scenarios. The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
 
 The hackathon starts on **June 1st** and ends on **June 15th**. It is recommended for participants to follow the HackTogether Roadmap for a successful hackathon.
+
+## We are excited to share the hackathon winners! 🎉
+* 🏆 Grand prize winner: [Live patient review](https://github.com/microsoft/hack-together-teams/issues/105)
+* 🏅 Best AI-powered solution: [Knowledge Quest Teams Bot](https://github.com/microsoft/hack-together-teams/issues/78)
+* 🏅 Best productivity-focused solution: [Guest user overview in teams](https://github.com/microsoft/hack-together-teams/issues/69)
+* 🏅 Community hack winner: [DocAssistant](https://github.com/microsoft/hack-together-teams/issues/112)
+
+>⭐ Special jury picks: Since we’ve got so many cool submissions, we decided to recognize three more projects with a special jury prize!
+>  * [GeoQuest](https://github.com/microsoft/hack-together-teams/issues/104)
+>  * [MsTeams Quiz Bot](https://github.com/microsoft/hack-together-teams/issues/89)
+>  * [NexusAI](https://github.com/microsoft/hack-together-teams/issues/110)
+
+**Congratulations to the winners and a huge thank you to all participants!**
+
+For more details, check out the [announcement article](https://devblogs.microsoft.com/microsoft365dev/announcing-the-hacktogether-microsoft-teams-global-hack-winners/#%f0%9f%8f%86-grand-prize-winner-live-patient-review).
 
 ### Tips & Tricks
 
@@ -140,9 +154,4 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 
 ## Feedback ♻️
 We are excited to learn from you! Please share your experience and feedback with us: [Feedback Survey](https://aka.ms/hack-together-teams/survey).
-
-<p align="center">
-  <a href="https://github.com/microsoft/hack-together-teams/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E"><img src="https://img.shields.io/badge/HackTogether-Submit%20your%20app-009933?style=for-the-badge&logoColor=white&logo=MicrosoftTeams" alt="Submit your app" border="0"/></a><br />
-  ...and don't forget to <a href="https://aka.ms/hack-together-teams/register">register</a> 😊
-</p>
 
